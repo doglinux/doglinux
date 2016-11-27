@@ -1,0 +1,29 @@
+Origin: Debian
+Label: DebianDog
+Suite: testing
+Version: 1.0
+Codename: stretch
+Architectures: i386
+Components: main
+Description: DebianDog repository
+Date: Sat, 19 Nov 2016 14:48:40 +0000
+MD5Sum:
+ 6c3201ba5b8eba98f29ab4da41d65aa7           132727 Packages
+ 2014790d07acf0ea02fde8fce8a3b544            51186 Packages.gz
+ f86357fa7221eb25d309f1f19c0aec49              187 Release
+ 2014790d07acf0ea02fde8fce8a3b544            51186 Translation-en.gz
+SHA1:
+ 462e43376b8c6fb3acb41ef7e78bae7bc1eef13a           132727 Packages
+ 870a04659cee280b166e9d451fc9c19a99ef3427            51186 Packages.gz
+ da55d4c3b1684cc2d1aa400b9561f54fe6d57eb3              187 Release
+ 870a04659cee280b166e9d451fc9c19a99ef3427            51186 Translation-en.gz
+SHA256:
+ 6fa28c83fd4fdbc77891361da80ab7273e357744d81a76990f962e82169b2833           132727 Packages
+ db9f53666b2d0d32f90ff2a32336458b0f17d41121471ce8142d91bd959c30b4            51186 Packages.gz
+ 9868bd69eb2de2759cc45994a42ddb8845c17bf6f2666dc5a350e41aee628ddb              187 Release
+ db9f53666b2d0d32f90ff2a32336458b0f17d41121471ce8142d91bd959c30b4            51186 Translation-en.gz
+SHA512:
+ b40f6f5c06514cb3ae66710eb46ef77dba44c137a229988142ef0537ae4aa31380506d9fbe42bc4d164def8ad246ac6515ad3295e8a8607d581cffc0bb5caae4           132727 Packages
+ 208877397620566d7563cd96c05355bb8d70073080666aab72cf225b13ae131493013c1b8ac4caf7fcbfb055f723e787a8ed7ad96c6c72f23af7377de100a47c            51186 Packages.gz
+ c4d0bf2512547c4a79f17ed53ca6cdabb32ac65efd80ce35bc25b1ba080e55b244b7363b704f0b279af6e257337178090dec37510822c62f37b0b49bb041e9b8              187 Release
+ 208877397620566d7563cd96c05355bb8d70073080666aab72cf225b13ae131493013c1b8ac4caf7fcbfb055f723e787a8ed7ad96c6c72f23af7377de100a47c            51186 Translation-en.gz
