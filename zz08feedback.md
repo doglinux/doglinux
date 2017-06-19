@@ -1,18 +1,24 @@
 ---
-layout: forum
-title: Feedback
+layout: menu
+title: Discussion
 comments: true
 image: css/feedback.png
 ---
 
----
+---    
 <br>
 
+##  [XenialDog 32-bit (Ubuntu 16.04 'Xenial Xerus' LTS)](html/xen32.html){:target="_blank"}      
+&nbsp;     
 
-### Dog Linux Feedback   
+##  [XenialDog 64-bit (Ubuntu 16.04 'Xenial Xerus' LTS)](html/xen64.html){:target="_blank"}
+
+&nbsp;   
+
+&nbsp;   
+
+&nbsp;  
 
 
-[XenialDog 32-bit](html/xen32.html){:target="_blank"}   
 
-[XenialDog 64-bit](html/xen64.html){:target="_blank"}
 
