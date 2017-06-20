@@ -97,7 +97,7 @@ this.page.url = https://doglinux.github.io/doglinux/zz05xenialdog.html;  // Repl
 */
 (function() { // DON'T EDIT BELOW THIS LINE
 var d = document, s = d.createElement('script');
-s.src = 'https://debdog.disqus.com/embed.js';
+s.src = 'https://doglinux-test.disqus.com/embed.js';
 s.setAttribute('data-timestamp', +new Date());
 (d.head || d.body).appendChild(s);
 })();
