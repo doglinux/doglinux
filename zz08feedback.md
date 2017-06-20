@@ -8,7 +8,7 @@ image: css/feedback.png
 ---    
 <br>
    
-### Under construction...   
+### Testing only. Under construction...   
 <br>   
 
 ##  [XenialDog 32-bit (Ubuntu 16.04 'Xenial Xerus' LTS)](html/xen32.html){:target="_blank"}      
