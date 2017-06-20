@@ -17,7 +17,7 @@ image: css/feedback.png
 ##  [XenialDog 64-bit (Ubuntu 16.04 'Xenial Xerus' LTS)](html/xen64.html){:target="_blank"}   
 &nbsp;   
 
-##  [Other](html/other.html){:target="_blank"}
+##  [Other 'Dogs'](html/other.html){:target="_blank"}
 
 
 &nbsp;   
