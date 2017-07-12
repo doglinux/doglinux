@@ -11,13 +11,13 @@ image: css/feedback.png
 ### Testing only. Under construction...   
 <br>   
 
-##  [XenialDog 32-bit (Ubuntu 16.04 'Xenial Xerus' LTS)](html/xen32.html){:target="_blank"}      
+##  [XenialDog)](html/xen32.html){:target="_blank"}      
 &nbsp;     
 
-##  [XenialDog 64-bit (Ubuntu 16.04 'Xenial Xerus' LTS)](html/xen64.html){:target="_blank"}   
+##  [DebianDog)](html/debdog.html){:target="_blank"}   
 &nbsp;   
 
-##  [Other 'Dogs'](html/other.html){:target="_blank"}
+##  [Other](html/other.html){:target="_blank"}
 
 
 &nbsp;   
