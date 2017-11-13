@@ -6,7 +6,7 @@ image: css/running_hound.gif
 
 # Welcome to Dog Linux
 ---    
-<br>
+
 
 <p class='colblock' markdown='1'>
 *DebianDog is very small Debian Live CD shaped to look and act like Puppy Linux. Debian structure and Debian behaviour are untouched and Debian documentation is 100% valid for DebianDog. You have access to all debian repositories using apt-get or synaptic.*
@@ -27,7 +27,6 @@ And to Sickgut for his original idea that made possible DebianDog to exist.
 
 <br>
 
-&nbsp;
 
     
 ## News:

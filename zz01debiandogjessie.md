@@ -56,7 +56,7 @@ Default WM - OpenBox with XFCE. (with option to switch to JWM (Menu > System > S
 Default File Manager - Thunar with option to use Rox.   
 Default Internet Browser - Firefox-ESR.   
 
-![OpenBox](https://raw.githubusercontent.com/DebianDog/Jessie/gh-pages/screenshots/debdog2-openbox.jpg)
+![OpenBox](https://raw.githubusercontent.com/DebianDog/Jessie/gh-pages/screenshots/debdog2-openbox.jpg)  
 
 Older versions:      
 [DebianDog-Jessie-openbox_xfce-2015-09-02.iso](https://github.com/DebianDog/Jessie/releases/download/v.1.0/DebianDog-Jessie-openbox_xfce-2015-09-02.iso) - 197 Mb - kernel 3.16.0-4-586 (for older PC).   

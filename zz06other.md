@@ -21,4 +21,27 @@ image: css/other.png
 {:/comment}
 
 <iframe width='480' height='380' src="https://www.youtube.com/embed/olKIUbHjJhg" frameborder="0" allowfullscreen></iframe>
+   
+[![Image Alt Text](https://raw.githubusercontent.com/DebianDog/Jessie/gh-pages/screenshots/debdog2-openbox.jpg)](http://ftp.riken.jp/Linux/simosnet-livecd/debiandog/ "Image Alt Text")  
+
+<style>
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 30%;
+    transform: translate(-50%, -50%);
+}
+</style>
+
+<div class="container">
+  <img src="https://raw.githubusercontent.com/DebianDog/Jessie/gh-pages/screenshots/debdog2-openbox.jpg" alt="Norway" style="width:50%;">
+  <div class="centered">Openbox</div>
+</div>
+
+   
 

@@ -269,16 +269,41 @@ main {
         }
     }
 
-.container {
-    background: url("snow.png") #FFFCE9;
-    width: 100%;
-    	background-color: #FFFCE9;
-    float: left;
-    }
+   .container
+ {
+position: relative;
+width: 100%;
+
+    float: left; 
+
+
+   }
+  .container:after {
+content : "";
+display: block;
+position: absolute;
+top: 0;
+left: 0;
+background-image: url("lake.jpg"); 
+width: 100%;
+height: 100%;
+opacity : 0.2;
+z-index: -1;
+ background-repeat: no-repeat;
+    background-position: center;
+    -ms-background-size: cover;
+    -o-background-size: cover;
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    background-size: cover;
+background-attachment:fixed;
+ }
 
     @media (min-width:10em) {
+    position: relative;
+    z-index: -1;
     .container {
-        background: url("snow.png") #FFFCE9 fixed;
+        background: url("lake.jpg") #fff fixed;
         }
     }
 
@@ -384,7 +409,7 @@ main .img-wrapper {
 	display: block;
 	width: 100%;
 	margin: 0.6em 0 1.5em 0.6em;
-	background-color: #947761;
+
 	overflow: hidden;
 
 	box-shadow: 6px 5px 8px rgba(0,0,0,0.1);
@@ -394,15 +419,17 @@ main .img-wrapper {
 	color: #fff;
 	display: block;
 	font-family: 'Bitter';
-	font-size: 0.9em;
+	font-size: 1.1em;
 	position: relative;
 	padding: 0.5em;
-	padding-left: 0.7em;
+	padding-left: 0.8em;
+	padding-top: 0.7em;
+	padding-bottom: 1.5em;
 	float: left;
 	width: 98%;
-	margin: 0 0 1.5em 0;
+	margin: 1.0em 0 0.0em 0;
 	margin-left: 0.7em; /* 24px */
-	background-color: #225D4C; /* #5F473B chocolate */
+    background: linear-gradient(rgba(68,54,40,.90), rgba(190,186,180,0));
 
     }
 
@@ -410,7 +437,7 @@ main .img-wrapper {
     @media (min-width: 10em) {
     .nav-primary {
         width: 164px;
-	height: 461px;	
+	height: 489px;	
         }
     }
 
@@ -444,7 +471,7 @@ main .img-wrapper {
 .nav-primary li .img-wrapper {
 	left: 0;
 margin-top: 3px;
-margin-left: 5px;	
+margin-left: 8px;	
 	
     }
 
@@ -466,10 +493,12 @@ margin-left: 5px;
 
 	padding: 8px 0 9px 51px;
 	background-color: #EBE7E3;
+    background: linear-gradient(to top, rgba(198,194,188,.9), rgba(250,245,239,1));
 	line-height: 1.1;
 height: 45px;
 
-margin: 1px;
+	margin-top: 4px;
+	margin-bottom: 4px;
     }
 
 .nav-primary li a:hover,
@@ -484,6 +513,7 @@ margin: 1px;
 .nav-primary .active,
 .nav-primary .active:hover {
 	background-color: #F5F2EC;
+    background: linear-gradient(to top, rgba(188,184,180,.90), rgba(240,245,230,3));
 	color: #252525;
     }
    
@@ -491,6 +521,7 @@ margin: 1px;
 .nav-primary .active,
 .nav-primary .active:active {
     	background-color: #735C4B;
+    background: linear-gradient(to top, rgba(78,74,40,.9), rgba(180,170,160,1));
     	color: #fff;
     }
 
