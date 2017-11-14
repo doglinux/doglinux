@@ -8,6 +8,59 @@ image: css/running_hound.gif
 ---    
 
 
+<style>
+.containerr {
+  position: relative;
+  width: 70%;
+}
+
+.image {
+  display: block;
+  width: 70%;
+  height: auto;
+}
+
+.overlay {
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  right: 0;
+  background-color: #008CBA;
+  overflow: hidden;
+  width: 0;
+  height: 100%;
+  transition: .5s ease;
+}
+
+.containerr:hover .overlay {
+  width: 70%;
+  left: 0;
+}
+
+.text {
+  white-space: nowrap; 
+  color: white;
+  font-size: 15px;
+  position: absolute;
+  overflow: hidden;
+  top: 40%;
+  left: 40%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+}
+</style>
+
+<div class="containerr">
+  <img src="images/lake1.png" alt="Avatar" class="image">
+  <div class="overlay">
+    <div class="text">Hello World
+<p>This is just a test.</p></div>
+
+  </div>
+</div>
+
+ 
+
 <p class='colblock' markdown='1'>
 *DebianDog is very small Debian Live CD shaped to look and act like Puppy Linux. Debian structure and Debian behaviour are untouched and Debian documentation is 100% valid for DebianDog. You have access to all debian repositories using apt-get or synaptic.*
 </p>

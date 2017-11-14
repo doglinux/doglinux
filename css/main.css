@@ -271,14 +271,12 @@ main {
 
    .container
  {
-position: relative;
-width: 100%;
-
-    float: left; 
+   position: relative;
 
 
    }
-  .container:after {
+.container:after
+{
 content : "";
 display: block;
 position: absolute;
@@ -290,22 +288,11 @@ height: 100%;
 opacity : 0.2;
 z-index: -1;
  background-repeat: no-repeat;
-    background-position: center;
-    -ms-background-size: cover;
-    -o-background-size: cover;
-    -moz-background-size: cover;
-    -webkit-background-size: cover;
-    background-size: cover;
+   background-position: center;
 background-attachment:fixed;
- }
+    background-size: cover;
+}
 
-    @media (min-width:10em) {
-    position: relative;
-    z-index: -1;
-    .container {
-        background: url("lake.jpg") #fff fixed;
-        }
-    }
 
 
     
@@ -335,6 +322,7 @@ background-attachment:fixed;
 
 .img-wrapper img {
     display: block;
+
     height: 100px;
     width: 100px;
     }
