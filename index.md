@@ -69,7 +69,7 @@ All "DebianDog" projects (and deratives) are collected here, part of [DebianDog 
 
 ### [*Our thanks to Daniel Baumann! DebianDog wouldn't exist without his work.*](https://lists.debian.org/debian-live/2015/11/msg00024.html "An abrupt End to Debian Live"){:target="_blank"}  
 
-The DebianDog team also like to give thanks to Smokey and KazzaMozz for hosting DebianDog project
+The elsa team also like to give thanks to Smokey and KazzaMozz for hosting DebianDog project
 to Debian team for keeping Debian such flexible system,
 to the murga-linux Puppy forum for the opportunity to work on a project different from puppy linux,
 to our Puppy forum members working on DebianDog development:
